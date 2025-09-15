@@ -31,6 +31,21 @@ Kelas: C 2024
 ## Package dan Class:
 <img width="344" height="342" alt="Screenshot 2025-09-14 141342" src="https://github.com/user-attachments/assets/f8bc08fa-2bce-43ed-b2d4-add8754ec2e4" />
 
+Pada bagian ini di Project Nabil Daffa_PostTest1 saya menambahkan 3 Source Package dan Class disetiap masing-masing Packagenya, Di dalam File Nabil Daffa_PostTest1 ada 3 Source Package yaitu Main, Model, dan Service. Dan setiap Package masing-masing memiliki Class yaitu MainAppInvestasi, AsetInvestasi, dan AsetService.
 
+## Main & MainAppInvestasi:
+<img width="340" height="44" alt="Screenshot 2025-09-15 093156" src="https://github.com/user-attachments/assets/56b56201-6ac0-4f2e-8c83-bbda2a36a3ec" />
+
+Pada bagian Package Main terdapat Class yaitu Main, yang berfungsi sebagai entry point aplikasi. Class ini menampilkan menu utama, menerima input dari user, serta memanggil method dari service untuk menjalankan operasi CRUD pada data aset investasi.
+
+## Model & AsetInvestasi:
+<img width="345" height="41" alt="Screenshot 2025-09-15 093207" src="https://github.com/user-attachments/assets/c1060172-83a6-4ed6-8db4-efeec632b786" />
+
+Pada bagian Package Model terdapat Class yaitu AsetInvestasi, yang Merupakan blueprint / cetak biru pada objek aset investasi. Class ini berisi atribut (misalnya jenis aset, nilai, tanggal beli) beserta constructor, getter, dan setter yang berfungsi untuk mengelola data.
+
+## Service & AsetService:
+<img width="343" height="40" alt="Screenshot 2025-09-15 093221" src="https://github.com/user-attachments/assets/6554f65d-cea8-451c-9efc-9ea0d6b48fc3" />
+
+Pada bagian Package Service terdapat Class yaitu AsetService, yang berfungsi sebagai pengelola logika bisnis. Di dalamnya terdapat method untuk menambah, menampilkan, mengupdate, dan menghapus data aset yang tersimpan dalam koleksi (ArrayList). Service ini menjadi penghubung antara MainAppInvestasi dengan AsetInvestasi.
 
 # D. PENJELASAN OUTPUT CODINGAN JAVA
