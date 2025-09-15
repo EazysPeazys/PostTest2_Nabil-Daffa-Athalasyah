@@ -18,17 +18,16 @@ Kelas: C 2024
 <img width="940" height="320" alt="Screenshot 2025-09-14 141537" src="https://github.com/user-attachments/assets/461bffff-ee4b-44db-af56-b0c534633122" />
 
 ## AsetService:
-<img width="1119" height="812" alt="Screenshot 2025-09-14 141554" src="https://github.com/user-attachments/assets/9fa78160-f0c0-4135-b77c-f3a58baf0f18" />
-<img width="858" height="290" alt="Screenshot 2025-09-14 141621" src="https://github.com/user-attachments/assets/44c16588-8222-4ae7-8f66-4f4bc083b264" />
-<img width="1056" height="607" alt="Screenshot 2025-09-14 141635" src="https://github.com/user-attachments/assets/4adcf5f9-6a5c-4dac-9ff9-99fcff3e429c" />
-<img width="1048" height="354" alt="Screenshot 2025-09-14 141700" src="https://github.com/user-attachments/assets/8f860ffe-5e58-4eee-a7b7-274fa823a371" />
-<img width="868" height="413" alt="Screenshot 2025-09-14 141712" src="https://github.com/user-attachments/assets/9ce3c544-86f2-4f2a-9454-966e38ee3cf0" />
+<img width="1105" height="901" alt="Screenshot 2025-09-15 105933" src="https://github.com/user-attachments/assets/f1da97fe-f098-4f41-ab88-20deb06d4b44" />
+<img width="963" height="893" alt="Screenshot 2025-09-15 105945" src="https://github.com/user-attachments/assets/44a288a5-edce-4b35-8a3b-c92615f0fb3a" />
+<img width="1107" height="897" alt="Screenshot 2025-09-15 110004" src="https://github.com/user-attachments/assets/10b00392-9f93-49cd-a3a9-d84d614c085f" />
+<img width="826" height="416" alt="Screenshot 2025-09-15 110025" src="https://github.com/user-attachments/assets/ac831358-a84e-420e-be29-c1159bbd8c1f" />
 
 # B. GAMBAR FULL OUTPUT CODINGAN JAVA
 <img width="649" height="360" alt="Screenshot 2025-09-14 141802" src="https://github.com/user-attachments/assets/e70d0702-52fc-4f63-86df-0f140fefb0a9" />
 
-# C. PENJELASAN INPUT CODINGAN JAVA
-## Package dan Class:
+# C. PENJELASAN INPUT
+## Penerapan MVC Package dan Class:
 <img width="344" height="342" alt="Screenshot 2025-09-14 141342" src="https://github.com/user-attachments/assets/f8bc08fa-2bce-43ed-b2d4-add8754ec2e4" />
 
 Pada bagian ini di Project Nabil Daffa_PostTest1 saya menambahkan 3 Source Package dan Class disetiap masing-masing Packagenya, Di dalam File Nabil Daffa_PostTest1 ada 3 Source Package yaitu Main, Model, dan Service. Dan setiap Package masing-masing memiliki Class yaitu MainAppInvestasi, AsetInvestasi, dan AsetService.
@@ -36,7 +35,7 @@ Pada bagian ini di Project Nabil Daffa_PostTest1 saya menambahkan 3 Source Packa
 ## Main & MainAppInvestasi:
 <img width="340" height="44" alt="Screenshot 2025-09-15 093156" src="https://github.com/user-attachments/assets/56b56201-6ac0-4f2e-8c83-bbda2a36a3ec" />
 
-Pada bagian Package Main terdapat Class yaitu Main, yang berfungsi sebagai entry point aplikasi. Class ini menampilkan menu utama, menerima input dari user, serta memanggil method dari service untuk menjalankan operasi CRUD pada data aset investasi.
+Pada bagian Package Main terdapat Class yaitu Main, yang berfungsi sebagai entry point aplikasi. Class ini menampilkan menu utama user, menerima input dari user, serta memanggil method dari service untuk menjalankan operasi CRUD pada data aset investasi.
 
 ## Model & AsetInvestasi:
 <img width="345" height="41" alt="Screenshot 2025-09-15 093207" src="https://github.com/user-attachments/assets/c1060172-83a6-4ed6-8db4-efeec632b786" />
@@ -46,6 +45,31 @@ Pada bagian Package Model terdapat Class yaitu AsetInvestasi, yang Merupakan blu
 ## Service & AsetService:
 <img width="343" height="40" alt="Screenshot 2025-09-15 093221" src="https://github.com/user-attachments/assets/6554f65d-cea8-451c-9efc-9ea0d6b48fc3" />
 
-Pada bagian Package Service terdapat Class yaitu AsetService, yang berfungsi sebagai pengelola logika bisnis. Di dalamnya terdapat method untuk menambah, menampilkan, mengupdate, dan menghapus data aset yang tersimpan dalam koleksi (ArrayList). Service ini menjadi penghubung antara MainAppInvestasi dengan AsetInvestasi.
+Pada bagian Package Service terdapat Class yaitu AsetService, yang berfungsi sebagai pengelola code CRUD logika bisnis. Di dalamnya terdapat method untuk menambah, menampilkan, mengupdate, dan menghapus data aset yang tersimpan dalam koleksi (ArrayList). Service ini menjadi penghubung antara MainAppInvestasi dengan AsetInvestasi.
 
-# D. PENJELASAN OUTPUT CODINGAN JAVA
+## Penerapan Properties:
+<img width="209" height="65" alt="image" src="https://github.com/user-attachments/assets/57d0a9ae-eb31-46aa-975d-5968b0537d42" />
+
+Pada bagian ini saya menerapkan 3 Properties yaitu: this.nama yang menandakan nama, this.jenis yang menandakan jenis investasi, dan this.nilai yang menandakan nilai aset investasi.
+
+## Penerapan Constructor:
+<img width="644" height="138" alt="image" src="https://github.com/user-attachments/assets/11406df7-6e6b-4720-b876-5e2ac62fbb89" />
+
+Pada bagian Constructor, Constructor pada class AsetInvestasi digunakan untuk memberikan nilai awal pada atribut nama, jenis, dan nilai ketika sebuah objek baru dibentuk. Proses ini berjalan otomatis saat objek sedang dibuat, sehingga setiap objek AsetInvestasi langsung memiliki data sesuai parameter yang dimasukkan. Dengan demikian, constructor menjamin bahwa setiap aset investasi sudah terdefinisi sejak pertama kali dibuat.
+
+## Penerapan Access Modifier:
+<img width="308" height="92" alt="image" src="https://github.com/user-attachments/assets/5d577172-b73a-40f9-a2f6-ea969a46cf94" />
+
+Pada bagian Access Modifier, digunakan access modifier private pada atribut nama, jenis, dan nilai. Modifier private berarti ketiga atribut ini hanya bisa diakses di dalam class AsetInvestasi saja dan tidak dapat diakses langsung dari luar class. Tujuannya adalah untuk menerapkan prinsip enkapsulasi dalam OOP, yaitu melindungi data agar lebih aman serta memaksa penggunaan getter dan setter atau method lain yang sesuai jika ingin mengakses atau mengubah nilai atribut tersebut.
+
+## Penerapan Fitur Search:
+<img width="719" height="402" alt="image" src="https://github.com/user-attachments/assets/75d5ffb9-87c8-4072-9c9b-01955f2d5d4f" />
+
+Fitur search (cariAset) pada kode di atas berfungsi untuk mencari data aset berdasarkan nama. Program meminta pengguna memasukkan kata kunci, lalu membandingkannya dengan setiap nama aset yang ada di dalam daftar menggunakan perulangan for. Apabila ada kecocokan, maka data aset akan ditampilkan beserta pesan "Ditemukan", sedangkan jika tidak ada yang sesuai maka muncul pesan "Maaf aset tidak ditemukan!".
+
+## Penerapan Validasi Input:
+<img width="882" height="522" alt="image" src="https://github.com/user-attachments/assets/b0c3efff-2ce9-4ca8-bef1-75013c130f08" />
+
+Validasi input digunakan untuk melakukan untuk memvalidasi input nilai aset. Program akan terus meminta pengguna memasukkan angka hingga nilai yang diberikan benar-benar valid, yaitu berupa angka dan lebih besar dari nol. Jika pengguna memasukkan teks atau karakter yang bukan angka, program akan menampilkan pesan bahwa input tidak valid. Begitu juga jika angka yang dimasukkan kurang dari atau sama dengan nol, maka akan muncul peringatan bahwa nilai aset harus lebih dari nol. Setelah input dinyatakan valid, nilai tersebut disimpan ke dalam objek AsetInvestasi dan ditambahkan ke daftar aset.
+
+# D. PENJELASAN OUTPUT
