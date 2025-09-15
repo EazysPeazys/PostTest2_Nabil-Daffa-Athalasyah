@@ -28,5 +28,9 @@ Kelas: C 2024
 <img width="649" height="360" alt="Screenshot 2025-09-14 141802" src="https://github.com/user-attachments/assets/e70d0702-52fc-4f63-86df-0f140fefb0a9" />
 
 # C. PENJELASAN INPUT CODINGAN JAVA
+## Package dan Class:
+<img width="344" height="342" alt="Screenshot 2025-09-14 141342" src="https://github.com/user-attachments/assets/f8bc08fa-2bce-43ed-b2d4-add8754ec2e4" />
+
+
 
 # D. PENJELASAN OUTPUT CODINGAN JAVA
