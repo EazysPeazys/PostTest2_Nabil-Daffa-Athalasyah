@@ -71,8 +71,8 @@ Pada bagian Access Modifier, digunakan access modifier private pada atribut nama
 Fitur search (cariAset) pada kode di atas berfungsi untuk mencari data aset berdasarkan nama. Program meminta pengguna memasukkan kata kunci, lalu membandingkannya dengan setiap nama aset yang ada di dalam daftar menggunakan perulangan for. Apabila ada kecocokan, maka data aset akan ditampilkan beserta pesan "Ditemukan", sedangkan jika tidak ada yang sesuai maka muncul pesan "Maaf aset tidak ditemukan!".
 
 **OUTPUT FITUR SEARCH:**
-<img width="542" height="312" alt="image" src="https://github.com/user-attachments/assets/e9ed491c-3c65-43ae-a734-5a12ca1f1002" />
 
+<img width="542" height="312" alt="image" src="https://github.com/user-attachments/assets/e9ed491c-3c65-43ae-a734-5a12ca1f1002" />
 
 ## Penerapan Validasi Input:
 <img width="882" height="522" alt="image" src="https://github.com/user-attachments/assets/b0c3efff-2ce9-4ca8-bef1-75013c130f08" />
