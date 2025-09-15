@@ -53,6 +53,7 @@ Pada bagian Package Service terdapat Class yaitu AsetService, yang berfungsi seb
 Pada bagian ini saya menerapkan 3 Properties yaitu: this.nama yang menandakan nama, this.jenis yang menandakan jenis investasi, dan this.nilai yang menandakan nilai aset investasi.
 
 **OUTPUT PROPERTIES:**
+
 <img width="604" height="64" alt="image" src="https://github.com/user-attachments/assets/a1855582-9b27-4f32-9907-ad837223748d" />
 
 ## Penerapan Constructor:
