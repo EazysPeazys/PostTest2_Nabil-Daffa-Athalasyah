@@ -73,10 +73,16 @@ Fitur search (cariAset) pada kode di atas berfungsi untuk mencari data aset berd
 Validasi input digunakan untuk melakukan untuk memvalidasi input nilai aset. Program akan terus meminta pengguna memasukkan angka hingga nilai yang diberikan benar-benar valid, yaitu berupa angka dan lebih besar dari nol. Jika pengguna memasukkan teks atau karakter yang bukan angka, program akan menampilkan pesan bahwa input tidak valid. Begitu juga jika angka yang dimasukkan kurang dari atau sama dengan nol, maka akan muncul peringatan bahwa nilai aset harus lebih dari nol. Setelah input dinyatakan valid, nilai tersebut disimpan ke dalam objek AsetInvestasi dan ditambahkan ke daftar aset.
 
 # D. HASIL OUTPUT
+## 1). Tambah Aset
 <img width="708" height="433" alt="Screenshot 2025-09-15 093623" src="https://github.com/user-attachments/assets/f3a932c0-b390-40d1-a10f-51f2a360f684" />
 <img width="631" height="362" alt="Screenshot 2025-09-15 093634" src="https://github.com/user-attachments/assets/7cd9ad1d-0cb7-4e9e-8c8d-88b29a8a9d07" />
+## 2). Lihat Aset
 <img width="561" height="361" alt="Screenshot 2025-09-15 093645" src="https://github.com/user-attachments/assets/f5c8d94c-d210-4326-90d7-36fc0a1ad5ac" />
+## 3). Ubah Aset
 <img width="543" height="464" alt="Screenshot 2025-09-15 093659" src="https://github.com/user-attachments/assets/496a9f0c-4c9a-497d-8ff8-9aedfccf81ac" />
+## 4). Hapus Aset
 <img width="542" height="398" alt="Screenshot 2025-09-15 093713" src="https://github.com/user-attachments/assets/c89983f5-3939-4abd-8af2-751eb759e077" />
+## 5). Cari Aset
 <img width="548" height="317" alt="Screenshot 2025-09-15 093724" src="https://github.com/user-attachments/assets/4cee41fa-2309-4b27-999d-5f4a6b8f4349" />
+## 6). Keluar Dari Platform
 <img width="543" height="322" alt="Screenshot 2025-09-15 093732" src="https://github.com/user-attachments/assets/6926e18b-f143-420e-b06b-e32300a7bc11" />
