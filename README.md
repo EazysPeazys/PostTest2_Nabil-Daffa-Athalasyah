@@ -80,6 +80,10 @@ Fitur search (cariAset) pada kode di atas berfungsi untuk mencari data aset berd
 
 Validasi input digunakan untuk melakukan untuk memvalidasi input nilai aset. Program akan terus meminta pengguna memasukkan angka hingga nilai yang diberikan benar-benar valid, yaitu berupa angka dan lebih besar dari nol. Jika pengguna memasukkan teks atau karakter yang bukan angka, program akan menampilkan pesan bahwa input tidak valid. Begitu juga jika angka yang dimasukkan kurang dari atau sama dengan nol, maka akan muncul peringatan bahwa nilai aset harus lebih dari nol. Setelah input dinyatakan valid, nilai tersebut disimpan ke dalam objek AsetInvestasi dan ditambahkan ke daftar aset.
 
+**OUTPUT VALIDASI INPUT:**
+
+<img width="640" height="127" alt="image" src="https://github.com/user-attachments/assets/5e6877d9-6e3a-4b99-a82f-fbd408d177f3" />
+
 # D. HASIL OUTPUT SELURUH PROGRAM
 ## 1). Tambah Aset
 <img width="708" height="433" alt="Screenshot 2025-09-15 093623" src="https://github.com/user-attachments/assets/f3a932c0-b390-40d1-a10f-51f2a360f684" />
