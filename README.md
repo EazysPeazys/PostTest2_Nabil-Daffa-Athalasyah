@@ -4,7 +4,7 @@
 NIM: 2409116090
 Kelas: C 2024**
 
-## Lanjutan POSTTEST 1 ==> POSTTEST 2
+## (Lanjutan POSTTEST 1 ==> POSTTEST 2)
 # A. GAMBAR FULL INPUT CODINGAN JAVA
 ## Package dan Class:
 <img width="344" height="342" alt="Screenshot 2025-09-14 141342" src="https://github.com/user-attachments/assets/f8bc08fa-2bce-43ed-b2d4-add8754ec2e4" />
