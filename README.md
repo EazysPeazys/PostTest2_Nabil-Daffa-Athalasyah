@@ -73,6 +73,7 @@ Fitur search (cariAset) pada kode di atas berfungsi untuk mencari data aset berd
 **OUTPUT FITUR SEARCH:**
 <img width="542" height="312" alt="image" src="https://github.com/user-attachments/assets/e9ed491c-3c65-43ae-a734-5a12ca1f1002" />
 
+
 ## Penerapan Validasi Input:
 <img width="882" height="522" alt="image" src="https://github.com/user-attachments/assets/b0c3efff-2ce9-4ca8-bef1-75013c130f08" />
 
