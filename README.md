@@ -52,6 +52,9 @@ Pada bagian Package Service terdapat Class yaitu AsetService, yang berfungsi seb
 
 Pada bagian ini saya menerapkan 3 Properties yaitu: this.nama yang menandakan nama, this.jenis yang menandakan jenis investasi, dan this.nilai yang menandakan nilai aset investasi.
 
+**OUTPUT PROPERTIES:**
+<img width="604" height="64" alt="image" src="https://github.com/user-attachments/assets/a1855582-9b27-4f32-9907-ad837223748d" />
+
 ## Penerapan Constructor:
 <img width="644" height="138" alt="image" src="https://github.com/user-attachments/assets/11406df7-6e6b-4720-b876-5e2ac62fbb89" />
 
@@ -67,12 +70,15 @@ Pada bagian Access Modifier, digunakan access modifier private pada atribut nama
 
 Fitur search (cariAset) pada kode di atas berfungsi untuk mencari data aset berdasarkan nama. Program meminta pengguna memasukkan kata kunci, lalu membandingkannya dengan setiap nama aset yang ada di dalam daftar menggunakan perulangan for. Apabila ada kecocokan, maka data aset akan ditampilkan beserta pesan "Ditemukan", sedangkan jika tidak ada yang sesuai maka muncul pesan "Maaf aset tidak ditemukan!".
 
+**OUTPUT FITUR SEARCH:**
+<img width="542" height="312" alt="image" src="https://github.com/user-attachments/assets/e9ed491c-3c65-43ae-a734-5a12ca1f1002" />
+
 ## Penerapan Validasi Input:
 <img width="882" height="522" alt="image" src="https://github.com/user-attachments/assets/b0c3efff-2ce9-4ca8-bef1-75013c130f08" />
 
 Validasi input digunakan untuk melakukan untuk memvalidasi input nilai aset. Program akan terus meminta pengguna memasukkan angka hingga nilai yang diberikan benar-benar valid, yaitu berupa angka dan lebih besar dari nol. Jika pengguna memasukkan teks atau karakter yang bukan angka, program akan menampilkan pesan bahwa input tidak valid. Begitu juga jika angka yang dimasukkan kurang dari atau sama dengan nol, maka akan muncul peringatan bahwa nilai aset harus lebih dari nol. Setelah input dinyatakan valid, nilai tersebut disimpan ke dalam objek AsetInvestasi dan ditambahkan ke daftar aset.
 
-# D. HASIL OUTPUT
+# D. HASIL OUTPUT SELURUH PROGRAM
 ## 1). Tambah Aset
 <img width="708" height="433" alt="Screenshot 2025-09-15 093623" src="https://github.com/user-attachments/assets/f3a932c0-b390-40d1-a10f-51f2a360f684" />
 <img width="631" height="362" alt="Screenshot 2025-09-15 093634" src="https://github.com/user-attachments/assets/7cd9ad1d-0cb7-4e9e-8c8d-88b29a8a9d07" />
